@@ -11,10 +11,10 @@
 
 ## 프로젝트 구조
 
-현재 `frontend/` Flutter 프로젝트는 `frontend/flutter-legacy/`로 이동하고 다음 구조를 사용한다.
+현재 저장소 루트 아래의 `frontend/` Flutter 프로젝트는 `flutter-legacy/`로 이동하고 다음 구조를 사용한다.
 
 ```text
-frontend/
+저장소 루트/
 ├─ flutter-legacy/       기존 Flutter 앱
 ├─ ios-swift/            Swift + SwiftUI 앱
 ├─ android-kotlin/       Kotlin + Jetpack Compose 앱
